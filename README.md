@@ -1,7 +1,7 @@
 ### Hello! Me chamo Isaque Cascaes👋
 
 - 🌱 Estudando HTML, CSS JavaScript e MySQL;
-- 😄 Pronouns: Ele/Dele.
+- 😄 Pronomes: Ele/Dele.
 
 
 <div align="center">
