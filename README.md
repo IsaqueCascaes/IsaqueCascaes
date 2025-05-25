@@ -1,8 +1,7 @@
 ### Hello! Me chamo Isaque Cascaes👋
 
-- ↗️ Desenvolvedor Front-End em constante aprendizado e evolução;
+- ↗️ Desenvolvedor Back-end em constante aprendizado e evolução;
 - 🌱 Estudando HTML, CSS JavaScript e React;
-- 😄 Pronomes: Ele/Dele.
 
 
 <div align="center">
