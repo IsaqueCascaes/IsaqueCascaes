@@ -1,8 +1,6 @@
 ### Hello! Me chamo Isaque Cascaes👋
 
 - ↗️ Desenvolvedor Back-end em constante aprendizado e evolução;
-- 🌱 Estudando HTML, CSS JavaScript e React;
-
 
 <div align="center">
   <a href="https://github.com/IsaqueCascaes">
